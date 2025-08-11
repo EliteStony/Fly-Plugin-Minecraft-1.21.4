@@ -1,4 +1,4 @@
-# 🪽 Fly Command Plugin — Minecraft 1.21.4
+# 🪽 Fly Command Plugin Minecraft
 
 A simple, lightweight plugin that adds the `/fly` command to your Minecraft server, letting players toggle flight mode easily.  
 Perfect for creative builds, exploration, or giving your trusted players a bit of extra freedom.
@@ -7,7 +7,7 @@ Perfect for creative builds, exploration, or giving your trusted players a bit o
 
 ## ✨ Features
 - Toggle **fly mode** on and off with a single command.
-- Works for **Minecraft 1.21.4** servers.
+- Works for **Minecraft** servers.
 - Permission-based access control.
 - Sends clear feedback messages to players.
 - Lightweight — minimal performance impact.
@@ -43,7 +43,7 @@ Future updates may include custom messages, cooldowns, and world restrictions.
 ---
 
 ## 🛠 Compatibility
-- Minecraft **1.21.4**  
+- Minecraft **1.21.4** and **1.21.8**
 - Paper, Spigot, or Bukkit-based servers
 
 ---
