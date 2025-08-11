@@ -30,7 +30,7 @@ Perfect for creative builds, exploration, or giving your trusted players a bit o
 ---
 
 ## 🔑 Permissions
-- **`flyplugin.use`** — Allows the player to use `/fly`.
+- **`fly.toggle`** — Allows the player to use `/fly`.
 
 > Tip: You can grant this permission to non-OP players with a permissions plugin such as **LuckPerms**.
 
