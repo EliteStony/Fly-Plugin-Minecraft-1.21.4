@@ -1,0 +1,13 @@
+name: Fly
+version: 1.0
+main: me.StonysMod.fly.Fly
+api-version: 1.21
+commands:
+  fly:
+    description: Toggle Flugmodus
+    usage: /fly
+    permission: fly.toggle
+permissions:
+  fly.toggle:
+    description: Erlaubt das Umschalten des Flugmodus
+    default: true
